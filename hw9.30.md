@@ -7,3 +7,11 @@
 ![image](https://github.com/RRC-c/CDYHomework/raw/master/Pics/9.26PM.jpg)</br>
 ![image](https://github.com/RRC-c/CDYHomework/raw/master/Pics/9.27AM.jpg)</br>
 ![image](https://github.com/RRC-c/CDYHomework/raw/master/Pics/key.jpg)
+
+回答问题：
+
+数据记录记录请见https://github.com/RRC-c/CDYHomework/blob/master/%E5%96%9D%E6%B0%B4%E6%83%85%E5%86%B5%E8%A1%A8.xlsx
+
+感想：统计喝水这样的数据真的很繁琐，我觉得我这种可视化的形式可以用在一些智能水杯的app里—————当然就不需要用吞咽数计量了，可以更加精确。让一天的喝水情况直接可见————最好配一个“提醒喝水小助手”，感觉对生活还挺有帮助！
+
+我的哪些个人数据被收集？被谁收集？答：日常的搜索记录————最明显的是淘宝————不光我在淘宝上的搜索，显然我平常的浏览器搜索数据都被淘宝收集到了。除此之外，我长期的或实时的地理位置显然被收集了————网页侧边栏出现我家乡的房地产广告/人才招聘广告，有时候也有我实时所在地的————不知道是谁在收集，推测应该是百度搜索引擎出卖了我。
