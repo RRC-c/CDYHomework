@@ -50,8 +50,7 @@
 发现除了极端值，其他数据也略有不同——这说明它们是用另外一个物价标准来修正的；这就触及我的知识盲区了，可能有待找一下物价方面的数据，目前还没找到正确方法。 </br>
 结果及检验请见文件 [同比增速.xls](https://github.com/RRC-c/CDYHomework/blob/master/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80GDP/%E5%90%8C%E6%AF%94%E5%A2%9E%E9%80%9F.xls)  </br>
 </details>
-<details>
-<summary>Week3</summary>
+
 10月9日</br>
 我使用了图表秀、百度图说、Tableau和Excel四种工具</br>
 用以呈现Kaggle上的数据集[Steam 10 09 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)</br>
@@ -69,4 +68,3 @@
 **Excel**  
 [点此查看pdf](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88excel%EF%BC%89.pdf)  
 体会：*体验完上面几个，才意识到excel是一个多么强大而便利的可视化工具。*  
-</details>
