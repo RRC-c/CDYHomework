@@ -30,7 +30,7 @@
 问题2</br>
 国内政府的</br>
 《上海市公共数据开放暂行办法》[上海市人民政府网站](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw62638.html)</br>
-《中华人民共和国政府信息公开条例》 [百度律师/法律智库[(https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E6%9D%A1%E4%BE%8B2019&count=56&cid=27bf8b3a94630d68e58719938ec39bba_law)</br>
+《中华人民共和国政府信息公开条例》 [百度律师/法律智库](https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E6%9D%A1%E4%BE%8B2019&count=56&cid=27bf8b3a94630d68e58719938ec39bba_law)</br>
 《政务信息资源共享管理暂行办法》[中国政府网](http://www.gov.cn/zhengce/content/2016-09/19/content_5109486.htm)</br>
 《国土资源数据管理暂行办法》[自然资源部网站](http://www.mnr.gov.cn/gk/tzgg/201009/t20100915_1990379.html)</br>
 还有地震局、气象局各种环境、科学数据的共享条例，不再列举</br>
@@ -57,8 +57,8 @@
 <details>
 <summary>Week3</summary>
 <pre><code>
-10月16日
-我使用了图表秀、百度图说、Tableau、Excel这4种工具
-我选择的数据集是Kaggle上的[steam 10 9 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)
+10月16日</br>
+我使用了图表秀、百度图说、Tableau、Excel这4种工具</br>
+我选择的数据集是Kaggle上的[steam 10 9 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)</br>
 </code></pre>
 </details>
