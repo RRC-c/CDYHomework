@@ -48,15 +48,16 @@
 "不变价数据按不同基期分段计算。其中，2011-2015年数据按2010年价格计算，2016年及以后各季度数据按2015年价格计算。累计数据由当季数据相加得到。" </br>
 这就没法算了，我对照官方同比增速的数据做检验（官方同比增速用国内生产总值指数当季值做指标，算式：季度同比增速=指数当季值/100-1） </br>
 发现除了极端值，其他数据也略有不同——这说明它们是用另外一个物价标准来修正的；这就触及我的知识盲区了，可能有待找一下物价方面的数据，目前还没找到正确方法。 </br>
-结果及检验请见文件 [同比增速.xls](https://github.com/RRC-c/CDYHomework/blob/master/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80GDP/%E5%90%8C%E6%AF%94%E5%A2%9E%E9%80%9F.xls)  </br>
+结果及检验请见文件 [同比增速.xls](https://github.com/RRC-c/CDYHomework/blob/master/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80GDP/%E5%90%8C%E6%AF%94%E5%A2%9E%E9%80%9F.xls)   
 </details>
+<details><summary>Week3</summary>
 
-10月9日</br>
-我使用了图表秀、百度图说、Tableau和Excel四种工具</br>
-用以呈现Kaggle上的数据集[Steam 10 09 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)</br>
-这个数据集为2018年9月10日steam上百大“best game”的当前在线人数（Now_Players）与24小时内的在线人数峰值（Best_Of_24）</br>
-据此我们可以看到寥寥几个大型在线多人游戏压倒性的用户数量优势；如果仔细观察，也可以看出：比起单机游戏，在线多人游戏的峰值人数往往与当前游戏人数差别更大。</br>
-**图表秀**</br>
+10月9日  
+我使用了图表秀、百度图说、Tableau和Excel四种工具  
+用以呈现Kaggle上的数据集[Steam 10 09 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)  
+这个数据集为2018年9月10日steam上百大“best game”的当前在线人数（Now_Players）与24小时内的在线人数峰值（Best_Of_24）  
+据此我们可以看到寥寥几个大型在线多人游戏压倒性的用户数量优势；如果仔细观察，也可以看出：比起单机游戏，在线多人游戏的峰值人数往往与当前游戏人数差别更大。  
+**图表秀**  
 ![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88%E5%9B%BE%E8%A1%A8%E7%A7%80%EF%BC%89.png)  
 体会：*比较方便、功能不少的网页版可视化工具。图的种类很多，编辑字段、格式都很方便，给的几个配色模板也还挺漂亮。唯一不足就是作为网页版，导入数据和在有数据的情况下换图表是真的卡，卡死浏览器好几次。*  
 **百度图说**  
@@ -68,3 +69,5 @@
 **Excel**  
 [点此查看pdf](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88excel%EF%BC%89.pdf)  
 体会：*体验完上面几个，才意识到excel是一个多么强大而便利的可视化工具。*  
+
+</details>
