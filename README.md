@@ -59,4 +59,6 @@
 <pre><code>
 10月16日
 我使用了图表秀、百度图说、Tableau、Excel这4种工具
-我选择的数据集是Kaggle上的 [自然资源部网站](http://www.mnr.gov.cn/gk/tzgg/201009/t20100915_1990379.html)[Steam_10_09_18_best_game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)
+我选择的数据集是Kaggle上的[steam 10 9 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)
+</code></pre>
+</details>
