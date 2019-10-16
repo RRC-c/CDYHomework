@@ -2,7 +2,6 @@
 用来交作业的地方，我是17数新的CDY
 <details>
 <summary>Week1</summary>
-<pre><code>
 9月30日
 记录了一天的饮水情况，包括饮水的时间、容器/饮料种类、每次饮水量（用吞咽数测量）。我从9月26日中午开始记录，直到9月29日凌晨结束。
 
@@ -20,11 +19,9 @@
 
 我的哪些个人数据被收集？被谁收集？答：日常的搜索记录————最明显的是淘宝————不光我在淘宝上的搜索，显然我平常的浏览器搜索数据都被淘宝收集到了。除此之外，我长期的或实时的地理位置显然被收集了————网页侧边栏出现我家乡的房地产广告/人才招聘广告，有时候也有我实时所在地的————不知道是谁在收集，推测应该是百度搜索引擎出卖了我。
 
-</code></pre>
 </details>
 <details>
 <summary>Week2</summary>
-<pre><code>
 10月9日</br>
 
 问题2</br>
@@ -52,13 +49,24 @@
 这就没法算了，我对照官方同比增速的数据做检验（官方同比增速用国内生产总值指数当季值做指标，算式：季度同比增速=指数当季值/100-1） </br>
 发现除了极端值，其他数据也略有不同——这说明它们是用另外一个物价标准来修正的；这就触及我的知识盲区了，可能有待找一下物价方面的数据，目前还没找到正确方法。 </br>
 结果及检验请见文件 [同比增速.xls](https://github.com/RRC-c/CDYHomework/blob/master/%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%80GDP/%E5%90%8C%E6%AF%94%E5%A2%9E%E9%80%9F.xls)  </br>
-</code></pre>
 </details>
 <details>
 <summary>Week3</summary>
-<pre><code>
-10月16日</br>
-我使用了图表秀、百度图说、Tableau、Excel这4种工具</br>
-我选择的数据集是Kaggle上的[steam 10 9 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)</br>
-</code></pre>
+10月9日</br>
+我使用了图表秀、百度图说、Tableau和Excel四种工具</br>
+用以呈现Kaggle上的数据集[Steam 10 09 18 best game](https://www.kaggle.com/michau96/steam-10-09-18-best-game)</br>
+这个数据集为2018年9月10日steam上百大“best game”的当前在线人数（Now_Players）与24小时内的在线人数峰值（Best_Of_24）</br>
+据此我们可以看到寥寥几个大型在线多人游戏压倒性的用户数量优势；如果仔细观察，也可以看出：比起单机游戏，在线多人游戏的峰值人数往往与当前游戏人数差别更大。</br>
+**图表秀**</br>
+![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88%E5%9B%BE%E8%A1%A8%E7%A7%80%EF%BC%89.png)  
+体会：*比较方便、功能不少的网页版可视化工具。图的种类很多，编辑字段、格式都很方便，给的几个配色模板也还挺漂亮。唯一不足就是作为网页版，导入数据和在有数据的情况下换图表是真的卡，卡死浏览器好几次。*  
+**百度图说**  
+![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88%E7%99%BE%E5%BA%A6%C2%B7%E5%9B%BE%E8%AF%B4%EF%BC%89.png)  
+体会：*百度图说更具排版工具的特点——它可以按页面编排多个图表，但它的可视化功能受限严重，太过轻量化，无法显示详细、文本密集之处。我用的数据集在图说就显示不出完整的坐标字段，导出的图片也分辨率不高。如果是简单的、仅仅是为辅助一些文本的图例我觉得可以用百度图说快速完成，其他情况下我认为这绝不是一个使用体验很好的可视化工具。*  
+**Tableau**  
+[点此查看pdf](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88tableau%EF%BC%89.pdf)  
+体会：*上手花了些时间，可以看出这是真正功能强大的可视化软件。但格式可以调整的地方有些少，而且免费版不能导出图片（差评）。还有一点，很多UI太集成了或者太简单了，我觉得右键可以点开有选项的地方，点开一看发现啥也没有，有点新手不友好。*  
+**Excel**  
+[点此查看pdf](https://github.com/RRC-c/CDYHomework/blob/master/Pics/steam18-9-10%20best%20game%EF%BC%88excel%EF%BC%89.pdf)  
+体会：*体验完上面几个，才意识到excel是一个多么强大而便利的可视化工具。*  
 </details>
