@@ -115,3 +115,37 @@ Our World in Data本身分别在这几个数据集下提供了条形图。一开
 犯罪指数来自[numbeo.com](https://www.numbeo.com/crime/rankings_by_country.jsp)  
 
 </details>
+<details><summary>Week9</summary>
+  
+11月25日  
+ 尝试做高级的图，饼状图试了很久做不出来。看来只配做柱状图了。。改了之前作业的两张柱状图。  
+ **图1**  
+  *原图*  
+ ![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/Plastic-lifetime.jpg)
+ *R绘图*  
+ ![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/Rplot01Rplot1Reordered.png)
+ 
+ 代码：  
+ lifetime <- read.csv("lifetime.csv")  
+ library(ggplot2)  
+ ggplot(lifetime, aes(x =reorder(Entity,-by_year), y = by_year, fill=Entity)) +  
+ geom_col()+scale_fill_brewer(palette = "Pastel1")  
+ 原始数据两列分别是图表的x、y轴。用了reorder函数排序，并用了ggplot的配色。  
+   
+   
+  **图2**  
+  *原图*   
+  ![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/Ages%20by%20Country.jpg)  
+  *R绘图*  
+   ![image](https://github.com/RRC-c/CDYHomework/blob/master/Pics/Rplot2Coloured.png)
+   
+    代码：  
+    sectors <- read.csv("sectors.csv")  
+    library(ggplot2)  
+    ggplot(sectors, aes(x = MinimumAge, fill="red")) +  
+    geom_bar()  
+    原始数据是一个个国家的年龄值，y轴是计数。
+
+ 
+
+</details>
